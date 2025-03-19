@@ -1,4 +1,6 @@
 # Week 8 Practice
 
-This folder contains some programs form Week 8. Hopefully some of them will work!
+## About This Folder
+
+This folder contains some useful programs form Week 8. Hopefully some of them will work!
 
